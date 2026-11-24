@@ -1,0 +1,8 @@
+kit/
+competition.json
+requirements.json
+hts_dump.txt
+notes/
+output/
+bundle.tar.gz
+*.jsonl
